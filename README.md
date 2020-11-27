@@ -29,5 +29,6 @@ Missed Calls, Max Duration etc in the form of Cards.
 Also show the records in the form of tabular data.
 * UI should have a Device Data Analytics and Service Data Analytics (Interactive
 Visualisation) to generate a Pie Chart.
+* We would be going to use Agile Methodology.
 
 My [LinkedIn](https://www.linkedin.com/in/subareesh-krishnan-582968a1/)
