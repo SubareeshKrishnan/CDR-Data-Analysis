@@ -31,4 +31,9 @@ Also show the records in the form of tabular data.
 Visualisation) to generate a Pie Chart.
 * We would be going to use Agile Methodology.
 
+# Output
+![Service Analytics HW](https://user-images.githubusercontent.com/67178624/100448193-f1eee800-30d7-11eb-862e-a9e648e56486.png)
+![Ordered Hourly Range](https://user-images.githubusercontent.com/67178624/100448196-f3201500-30d7-11eb-9041-783df6eac204.png)
+![Device Analytics HW](https://user-images.githubusercontent.com/67178624/100448200-f3201500-30d7-11eb-90fd-63e87d8cef9a.png)
+
 My [LinkedIn](https://www.linkedin.com/in/subareesh-krishnan-582968a1/)
